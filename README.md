@@ -1,4 +1,4 @@
-#before-today
+# before-today
 
 Returns the current date or a date prior (offset in days) to the current date in
 DD-MM-YYYY format.
@@ -9,7 +9,7 @@ DD-MM-YYYY format.
 npm install --save before-today
 ```
 
-##Usage
+## Usage
 
 ```
 const date = require('before-today');
@@ -20,6 +20,6 @@ date();
 date(3);
 //Three days ago (eg. 25-04-2017)
 
-##License
+## License
 
 MIT

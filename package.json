@@ -1,0 +1,31 @@
+{
+  "name": "before-today",
+  "version": "1.0.0",
+  "description": "Returns the current date or a date prior (offset in days) to the current date in DD-MM-YYYY format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanDavison/before-today.git"
+  },
+  "keywords": [
+    "date",
+    "today",
+    "moment"
+  ],
+  "author": "Ryan Davison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanDavison/before-today/issues"
+  },
+  "homepage": "https://github.com/RyanDavison/before-today#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}

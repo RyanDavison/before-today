@@ -19,6 +19,7 @@ date();
 
 date(3);
 //Three days ago (eg. 25-04-2017)
+```
 
 ## License
 

@@ -21,6 +21,9 @@ date(3);
 //Three days ago (eg. 25-04-2017)
 ```
 
+## Related
+[start-date](https://github.com/RyanDavison/start-date)
+
 ## License
 
 MIT

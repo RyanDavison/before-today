@@ -1,7 +1,7 @@
 {
   "name": "before-today",
   "version": "2.1.0",
-  "description": "Returns the current date or a date prior (offset in days) to the current date in DD-MM-YYYY format.",
+  "description": "Returns the current date or a date prior (offset in days) to the current date.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

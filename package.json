@@ -21,9 +21,6 @@
     "url": "https://github.com/RyanDavison/before-today/issues"
   },
   "homepage": "https://github.com/RyanDavison/before-today#readme",
-  "dependencies": {
-    "moment": "^2.18.1"
-  },
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-datetime": "^1.4.1",

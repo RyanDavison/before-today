@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "chai-datetime": "^1.4.1",
     "mocha": "^3.3.0"
   }
 }

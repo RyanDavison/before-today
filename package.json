@@ -4,7 +4,7 @@
   "description": "Returns the current date or a date prior (offset in days) to the current date.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test ./test/"
   },
   "repository": {
     "type": "git",
